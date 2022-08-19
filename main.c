@@ -14,7 +14,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//...
 int generateurNumeros(int tab[5]);
 int generateurEtoiles(int tab[2]);
 
